@@ -1,0 +1,45 @@
+{
+    "short_name": "NEXT PWA App",
+    "name": "Create NEXT PWA App Sample",
+    "screenshots": [
+      {
+        "src": "image/icons/icons/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "1280x720",
+        "form_factor": "narrow"
+      },
+      {
+        "src": "image/icons/icons/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "1280x720",
+        "form_factor": "wide"
+      }
+    ],
+    "icons": [   
+      {
+        "src": "image/icons/icons/android-chrome-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "image/icons/icons/android-chrome-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/logo192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icons/logo512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
